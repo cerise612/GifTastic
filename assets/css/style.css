@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url("../images/background_1.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: 'Comfortaa', cursive;
+    color: #FFF;
+}
+
+h1 {
+    font-family: 'Kaushan Script', cursive;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    text-align: center;
+    align-self: center;
+    text-shadow: -2px -2px 0 grey, 2px -2px 0 grey, -2px 2px 0 grey, 2px 2px 0 grey;
+}
+
+#country-form {
+    text-align: right;
+    align-self: right;
+    float: right;
+    margin-right: 10px
+}
+
+#button {
+    margin-left: 40px;
+}
+
+.country-btn {
+    background-color: #e77955;
+    color: #FFF;
+    border-radius: 12px;
+    margin-right: 4px;
+}
+
+#submit-button {
+    background-color: #1661bc;
+    border-radius: 12px;
+    border: grey;
+}
